@@ -4,4 +4,4 @@
 
 [1] 报告名称, 单位, 年份, 网址
 
-[北京](Reports/Beijing/Beijing.md)，[北京](Reports/Beijing/Beijing.md)，
+[北京](./Reports/Beijing/Beijing.md)，[北京](./Reports/Beijing/Beijing.md)，
